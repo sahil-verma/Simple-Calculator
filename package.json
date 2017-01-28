@@ -1,0 +1,15 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node simpleCalculator.js"
+  },
+  "author": "sahil verma",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "common.js": "^1.1.1",
+    "connect": "^3.5.0"
+  }
+}
